@@ -31,7 +31,7 @@ namespace Calculadora.ConsoleApp
             {   Console.Clear();
 
                 Console.WriteLine("Calculator Exxperience");
-                Console.WriteLine("---------------------------");
+                Console.WriteLine("----------------------------------");
                 Console.WriteLine();
 
                 Console.WriteLine("MENU");
